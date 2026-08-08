@@ -8,7 +8,7 @@
 
 - `01-product-decision-chain/`: 从用户痛点、商业判断、市场需求到 PRD/项目规范。
 - `03-learning-and-research/`: 领域学习、产品拆解、竞品研究。
-- `04-knowledge-and-writing/`: Obsidian 知识沉淀与长文共创。
+- `04-knowledge-and-writing/`: Obsidian 知识沉淀、长文共创与社交媒体视觉内容制作。
 - `WORKFLOW_GUIDE.md`: 三个方向的总导航。
 - `PROJECT_STRUCTURE.md`: 仓库结构说明。
 - `SOURCE.md`: 来源与改编说明。
@@ -67,6 +67,7 @@ obsidian-knowledge-saver
 
 - `obsidian-knowledge-saver`: 将对话和知识点沉淀到 Obsidian 知识库。
 - `simin-article-cowriter`: 辅助撰写 AI PM、AI 产品、Agent 等方向的长文。
+- `social-visual-content-studio`: 将多模态素材转化为跨平台图文或短视频内容。
 
 ## 使用方式
 
